@@ -7,7 +7,13 @@
 <a href="https://leetcode.com/tanvir03/">
     <img alt="Leetcode" src="https://cp-logo.vercel.app/leetcode/tanvir03"/>
 </a>
-<a align="left"> <img src="https://komarev.com/ghpvc/?username=tanvir-03&label=Profile%20views&color=0e75b6&style=flat" alt="tanvir-03" /> </a>
+<a href="https://www.codechef.com/users/tanvir03">
+    <img alt="Codechef" src="https://cp-logo.vercel.app/codechef/tanvir03"/>
+</a>
+<a href="https://atcoder.jp/users/tanvir03">
+    <img alt="Atcoder" src="https://cp-logo.vercel.app/atcoder/tanvir03"/>
+</a>
+<a> <img src="https://komarev.com/ghpvc/?username=tanvir-03&label=Profile%20views&color=0e75b6&style=flat" alt="tanvir-03" /> </a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanvir-03" alt="tanvir-03" /></a> </p>
 
