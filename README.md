@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahsanul Mahbub Tanvir</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&color=%234DF79A&height=30&lines=HI+there%2C+I'm+Ahsanul Mahbub Tanvir!)](https://git.io/typing-svg)
 <h3 align="center">A passionate problem solver and competitive programmer from Bangladesh.</h3>
 
 <a href="https://codeforces.com/profile/tanvir03">
